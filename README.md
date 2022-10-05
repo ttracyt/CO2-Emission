@@ -2,7 +2,7 @@
 
 About this project: 
 
-Our objective for this assignmnet was to choose a global problem, collect datasets, and present our findings on Tabelau through dashboards. 
+Our objective for this assignmnet was to choose a global problem, collect datasets, and present our findings on Tabelau through dashboards. After we completed our project, I personally went beyond and made some changes and created new charts. 
 
 My team members and I (a group of 3) chose 'Climate Change' as our topic, specifically focusing on the emission of Carbon Dixodie around the world. We chose climate change because our world is currently being affected by the effects of climate change such as the rising temperatures and melting glaciers. 
 
@@ -14,6 +14,10 @@ There are a total of 3 questions we hope to answer once we have our findings.
   1. Which countries have the highest CO2 emissions? 
   2. Which sources contribute the most CO2 in the United States? 
   3. What are the impacts of CO2 emissions on our economy, society, and environment? 
+  
+ 
+Personal Questions: 
+  1. Which countries have the lowest CO2 emissions? 
 
 
 Dataset we used & cleaning the dataset: 
