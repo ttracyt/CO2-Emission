@@ -17,8 +17,7 @@ There are a total of 3 questions we hope to answer once we have our findings.
   
  
 ### Personal Questions: 
-  1. Which countries have the lowest CO2 emissions? 
-  2. Which fuel type do countries emit the most? 
+  4. Which fuel type do countries emit the most? 
 
 
 ## Dataset we used & cleaning the dataset: 
@@ -41,13 +40,18 @@ When imported into Tableau, our dataset had over 10,000 rows with some being red
 
 We applied a filter to only showcase top 10 countries with the highest CO2 emissions and in the year range of 2010-2020. We found that China, United States, and India were the top 3 CO2 producers. If we were to change oour year range to 2000-2010, United States was actually in the lead. From here, we can make predictions as to why the leading producer changed over the years. 
 
-Our group make 1 chart to show top 10 producers with its sources, but I decided to split them into two charts. 
+We chose to select a year range from 2010-2020; however, we can also choose individual years by changing our filter type. We made this chart interactive by adding a 'year' sliding filter on the side. 
 
 ### 2. Which sources contribute the most CO2 in the United States? 
 
 From the chart titled, "----", we found that the top 3 fuel types produced in the United States were Oil, Coal, and Gas. 
 
+### 3. What are the impacts of CO2 emissions on our economy, society, and environment? 
+
+For this question, we did outside research on the impacts of CO2 emissions on our economy, society, and environment if countries continue to emit large amounts of CO2 into our atmosphere. 
+
 ## From my own personal questions 
 
-### 3. Which countries have the lowest CO2 emissions? 
-### 4. Which fuel type do countries emit the most? 
+### 4. Which fuel type do countries emit the most? Who are the top 10 producers for that source?  
+
+For this question, I created my own chart to answer my question. From previous charts, I found that Coal was the largest fuel type produced by countries. From there, I filtered out top 10 countries from Coal production and found that top 3 were China, United States, and Germany. It was interesting to see Germany because from our previous findings, India was the 3rd country with the highest CO2 emission. 
