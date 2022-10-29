@@ -28,6 +28,7 @@ The dataset we used is titled, "CO2 and Greenhouse Gas Emissons", by Hannah Ritc
 
 
 # Images of our interactive charts we've created in Tableau (public link will be linked below as well). 
+<img width="856" alt="2010 - 2020" src="https://user-images.githubusercontent.com/115118406/198804624-76a282c9-1608-45a6-8f88-9d2d05b47361.png">
 
 
 <img width="903" alt="united states" src="https://user-images.githubusercontent.com/115118406/198804270-8a529db4-734a-4dd2-9068-37b046c0173c.png">
