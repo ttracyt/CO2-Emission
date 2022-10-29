@@ -38,4 +38,4 @@ The dataset we used is titled, "CO2 and Greenhouse Gas Emissons", by Hannah Ritc
 
 <img width="988" alt="sources" src="https://user-images.githubusercontent.com/115118406/198791540-4a668a2b-c518-45c6-84d9-0330b55a9b1e.png"> (figure 3)
 
-<img width="851" alt="Screen Shot 2022-10-28 at 8 43 01 PM" src="https://user-images.githubusercontent.com/115118406/198812324-85963ab3-8855-406f-9d93-adfd532e9771.png"> (Figure 4)
+<img width="851" alt="Screen Shot 2022-10-28 at 8 44 58 PM" src="https://user-images.githubusercontent.com/115118406/198812389-57c758fd-59b0-493e-ac18-082d6c8a78a0.png">(Figure 4)
