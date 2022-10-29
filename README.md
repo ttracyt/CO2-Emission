@@ -55,3 +55,5 @@ For this question, we did outside research on the impacts of CO2 emissions on ou
 ### 4. Which fuel type do countries emit the most? Who are the top 10 producers for that source?  
 
 For this question, I created my own chart to answer my question. From previous charts, I found that Coal was the largest fuel type produced by countries. From there, I filtered out top 10 countries from Coal production and found that top 3 were China, United States, and India. The results are not any different from our previous findings; however, we see Africa and Poland on our new list. This tells us that though Africa and Poland weren't the top 10 general largest CO2 producers, they are producing large amounts of CO2 compared to other fuel types. 
+
+<img width="988" alt="sources" src="https://user-images.githubusercontent.com/115118406/198791540-4a668a2b-c518-45c6-84d9-0330b55a9b1e.png"> 
