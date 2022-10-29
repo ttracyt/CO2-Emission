@@ -1,3 +1,14 @@
+Data cleaning & scrubbing: 
+
+Before we used the dataset, some changes were made. First, we added a new column titled 'Total' which is the sum of each fuel type within 
+that country. Next, we added replaced the spaces with underscores in each column name. 
+
+When imported into Tableau, our dataset had over 10,000 rows with some being redudant data. We, therefore, used the filter method to keep rows 
+ranging from the years 1750-2020 and 2010-2020. We also removed grouped up nations (for example Asia and Europe). 
+
+
+
+
 Findings and Insights: 
 
   1. Which countries have the highest CO2 emissions? 
