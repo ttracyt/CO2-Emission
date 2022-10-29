@@ -14,8 +14,8 @@ Findings and Insights:
   1. Which countries have the highest CO2 emissions? 
 
 We applied a filter to only showcase top 10 countries with the highest CO2 emissions and in the year range of 2010-2020. 
-We found that China, United States, and India were the top 3 CO2 producers. If we were to change oour year range to 2000-2010, 
-United States was actually in the lead. From here, we can make predictions as to why the leading producer changed over the years. (Figure 1). 
+We found that China, the United States, and India were the top 3 CO2 producers. If we were to change our year range to 2000-2010, 
+the United States was actually in the lead. From here, we can make predictions as to why the leading producer changed over the years. (Figure 1). 
 
 We chose to select a year range from 2010-2020; however, we can also choose individual years by changing our filter type. We made 
 this chart interactive by adding a 'year' sliding filter on the side. (Figure 2). 
@@ -37,6 +37,6 @@ From my own personal questions
   4. Which fuel type do countries emit the most? Who are the top 10 producers for that source?  
 
 For this question, I created my own chart to answer my question. From previous charts, I found that Coal was the largest fuel type 
-produced by countries. From there, I filtered out top 10 countries from Coal production in 2020 and found that top 3 were China, United States, 
+produced by countries. From there, I filtered out the top 10 countries from Coal production in 2020 and found that the top 3 were China, the United States, 
 and Russia. The results are not any different from our previous findings; however, we see Africa and Poland on our new list. This tells us that 
 though Africa and Poland weren't the top 10 general largest CO2 producers, they are producing large amounts of CO2 compared to other fuel types. (Figure 3). 
