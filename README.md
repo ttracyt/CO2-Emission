@@ -27,6 +27,8 @@ The dataset we used is titled, "CO2 and Greenhouse Gas Emissons", by Hannah Ritc
   Hannah Ritchie, Max Roser and Pablo Rosado (2020) - "CO₂ and Greenhouse Gas Emissions". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions' [Online Resource]
 
 
+# Images of our interactive charts we've created in Tableau (public link will be linked below as well). 
+
 ## Data cleaning & scrubbing: 
 
 Before we used the dataset, some changes were made. First, we added a new column titled 'Total' which is the sum of each fuel type within that country. Next, we added replaced the spaces with underscores in each column name. 
