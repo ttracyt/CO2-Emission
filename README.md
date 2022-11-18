@@ -28,6 +28,9 @@ The dataset we used is titled, "CO2 and Greenhouse Gas Emissons", by Hannah Ritc
 
 
 # Images of our interactive charts we've created in Tableau (public link will be linked below as well). 
+Link to Tableu Profile: https://public.tableau.com/app/profile/tracy.t7083
+
+
 <img width="851" alt="Screen Shot 2022-10-28 at 8 37 12 PM" src="https://user-images.githubusercontent.com/115118406/198809927-5b504eb9-5181-4723-b616-b2afb7b4a88e.png">
 (figure 1)
 
