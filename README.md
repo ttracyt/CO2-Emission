@@ -6,7 +6,7 @@ Our objective for this assignmnet was to choose a global problem, collect datase
 
 My team members and I (a group of 3) chose 'Climate Change' as our topic, specifically focusing on the emission of Carbon Dixodie around the world. We chose climate change because our world is currently being affected by the effects of climate change such as the rising temperatures and melting glaciers. 
 
-We will be using datasets we collected to provide insights on which countries were the largest producers of CO2 and by what fuel type (source). With our findings, we will 
+We will be using datasets we collected to provide insights on which countries were the largest producers of CO2 and by what fuel type (source). 
 
 ## Business Questions: 
 
